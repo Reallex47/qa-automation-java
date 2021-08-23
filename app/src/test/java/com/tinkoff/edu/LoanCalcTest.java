@@ -1,6 +1,6 @@
-package com.tinkoff.akimov1;
+package com.tinkoff.edu;
 
-import com.tinkoff.akimov1.Controllers.LoanCalcController;
+import com.tinkoff.edu.сontrollers.LoanCalcController;
 
 /**
  * Loan Calc Tests

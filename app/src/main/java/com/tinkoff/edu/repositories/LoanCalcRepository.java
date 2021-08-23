@@ -1,4 +1,4 @@
-package com.tinkoff.akimov1.Repositories;
+package com.tinkoff.edu.repositories;
 
 public class LoanCalcRepository {
     private static int requestId;
