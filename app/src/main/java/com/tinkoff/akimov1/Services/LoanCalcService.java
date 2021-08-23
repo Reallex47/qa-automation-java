@@ -1,6 +1,6 @@
-package com.tinkoff.akimov1.LoanCalcService;
+package com.tinkoff.akimov1.Services;
 
-import com.tinkoff.akimov1.LoanCalcRepository.LoanCalcRepository;
+import com.tinkoff.akimov1.Repositories.LoanCalcRepository;
 
 public class LoanCalcService {
     /**
