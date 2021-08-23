@@ -1,8 +1,7 @@
 package com.tinkoff.akimov1;
 
-import com.tinkoff.akimov1.LoanCalcService;
-import com.tinkoff.akimov1.LoanCalcController;
-import com.tinkoff.akimov1.LoanCalcRepository;
+import com.tinkoff.akimov1.LoanCalcController.LoanCalcController;
+
 /**
  * Loan Calc Tests
  */
