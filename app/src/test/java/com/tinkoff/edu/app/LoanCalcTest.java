@@ -1,9 +1,9 @@
 package com.tinkoff.edu.app;
 
-import com.tinkoff.edu.app.model.LoanResponse;
-import com.tinkoff.edu.app.сontrollers.LoanCalcController;
 import com.tinkoff.edu.app.model.LoanRequest;
 import com.tinkoff.edu.app.types.LoanType;
+import com.tinkoff.edu.app.сontrollers.LoanCalcController;
+import com.tinkoff.edu.app.model.LoanResponse;
 
 /**
  * Loan Calc Tests
