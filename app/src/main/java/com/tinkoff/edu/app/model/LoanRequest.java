@@ -2,9 +2,6 @@ package com.tinkoff.edu.app.model;
 
 import com.tinkoff.edu.app.types.LoanType;
 
-/**
- * TODO Class, type -> objects, instances
- */
 public class LoanRequest {
     private final int months; //stateful + immutable
     private final int amount;
